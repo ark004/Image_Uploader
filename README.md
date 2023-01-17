@@ -1,6 +1,8 @@
 # Image_Uploader
 
+
 simple images uploader can upload and delete images from user interface 
+
 tech.use: html,css,python,django
 ![Screenshot (32)](https://user-images.githubusercontent.com/108901697/212861474-fa45b050-c334-4e03-aafc-b4abd6691217.png)
 
